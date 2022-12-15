@@ -38,10 +38,27 @@ Here are some ideas to get you started:
 
 ---
 
+<!-- about me -->
+
 ### :woman_technologist: About Me :
 
 I am a Mathematics graduate, learning to code and building up my project portfolio to kickstart my career in data.
 
 - Working on improving my SQL skills to query data for greater insights and expanding my knowledge of Tableau and Power BI.
+<!--
 - Currently working on a project exploring data regarding the covid-19 to understand the impact of the vaccines in the infection and death rate of the virus on a global scale
+-->
+- Seeking to kickstart my career working with data.
+- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/cheilacarinadasilva/)
 
+---
+
+<!-- skills section - programming languages -->
+
+### :hammer_and_wrench: Languages and Tools :
+<div>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="40" height="40"/>&nbsp;
+  <img src="https://e7.pngegg.com/pngimages/875/824/png-clipart-tableau-software-computer-software-business-intelligence-data-visualization-tableau-software-computer-software.png" title="Tableau" alt="Tableau" width="40" height="40"/>&nbsp; Tableau
+  <img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" title="AWS" alt="AWS" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
+</div>
