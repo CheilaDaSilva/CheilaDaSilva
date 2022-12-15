@@ -58,7 +58,8 @@ I am a Mathematics graduate, learning to code and building up my project portfol
 ### :hammer_and_wrench: Languages and Tools :
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="40" height="40"/>&nbsp;
-  <img src="https://e7.pngegg.com/pngimages/875/824/png-clipart-tableau-software-computer-software-business-intelligence-data-visualization-tableau-software-computer-software.png" title="Tableau" alt="Tableau" width="40" height="40"/>&nbsp; Tableau
-  <img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" title="AWS" alt="AWS" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
+  <img src="https://logos-world.net/wp-content/uploads/2021/10/Tableau-Logo.png" title="Tableau" alt="Tableau" width="40" height="40"/>&nbsp;
+  <img src="https://logos-world.net/wp-content/uploads/2022/02/Microsoft-Power-BI-Symbol.png" title="Power BI" alt="Power BI" width="40" height="40"/>&nbsp;
+  <img src="https://download.logo.wine/logo/Microsoft_Excel/Microsoft_Excel-Logo.wine.png" title="Microsoft Excel" **alt="Microsoft Excel" width="40" height="40"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/SAS_logo_horiz.svg/2560px-SAS_logo_horiz.svg.png" title="SAS" **alt="SAS" width="40" height="40"/>
 </div>
