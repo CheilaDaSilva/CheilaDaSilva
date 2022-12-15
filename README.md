@@ -45,11 +45,8 @@ Here are some ideas to get you started:
 I am a Mathematics graduate, learning to code and building up my project portfolio to kickstart my career in data.
 
 - Working on improving my SQL skills to query data for greater insights and expanding my knowledge of Tableau and Power BI.
-<!--
-- Currently working on a project exploring data regarding the covid-19 to understand the impact of the vaccines in the infection and death rate of the virus on a global scale
--->
 - Seeking to kickstart my career working with data.
-- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/cheilacarinadasilva/)
+- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Cheila-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/cheilacarinadasilva/)
 
 ---
 
