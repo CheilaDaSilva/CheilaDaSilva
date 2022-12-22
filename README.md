@@ -26,14 +26,9 @@ Here are some ideas to get you started:
 </div>
 
 <h1>
-  hey there
+  Hi there
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
-<div align="center">
-  <img src="https://media.giphy.com/media/AjyLmNcI5K53XlR0jR/giphy.gif" width="600" height="300"/>
-</div>
-
----
 
 <!-- about me -->
 
@@ -56,4 +51,8 @@ I am a Mathematics graduate, learning to code and building up my project portfol
   <img src="https://res.cloudinary.com/hevo/images/f_auto,q_auto/v1655278325/hevo-learn/Power-BI-Power-BI-logo/Power-BI-Power-BI-logo.png?_i=AA" title="Power BI" alt="Power BI" width="80" height="40"/>&nbsp;
   <img src="https://logos-world.net/wp-content/uploads/2022/02/Microsoft-Excel-Symbol.png" title="Microsoft Excel" **alt="Microsoft Excel" width="60" height="60"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/SAS_logo_horiz.svg/2560px-SAS_logo_horiz.svg.png" title="SAS" **alt="SAS" width="50" height="50"/>
+</div>
+
+<div align="center">
+  <img src="https://media.giphy.com/media/AjyLmNcI5K53XlR0jR/giphy.gif" width="600" height="300"/>
 </div>
