@@ -133,7 +133,7 @@ I am a Mathematics graduate, learning to code and building up my project portfol
 			</td>
 		</tr>
 <tr>
-			<td align="left"><a href="https://github.com/CheilaDaSilva/world-cup-database-project">World Cup Datase</a></td>
+			<td align="left"><a href="https://github.com/CheilaDaSilva/world-cup-database-project">World Cup Database</a></td>
 			<td align="left"><li>Bash script to read csv data and insert each value to appropriate tables in a relational database</li>
 			</td>
 		</tr>
