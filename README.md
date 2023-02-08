@@ -128,27 +128,27 @@ I am a Mathematics graduate, learning to code and building up my project portfol
 				<a href="https://github.com/CheilaDaSilva/celestial_bodies_database_project">Celestial Bodies Database</a>
 	</td>
 			<td align="left">
-				<li>Created a relational database using appropriate constraints and adding data gathered through research done about celestial bodies.</li>
+				<li>Relational databases and inserting data based on gathered data from research.</li>
 			</td>
 		</tr>
 <tr>
 			<td align="left"><a href="https://github.com/CheilaDaSilva/world-cup-database-project">World Cup Datase</a></td>
-			<td align="left"><li>Created a relational database and developed Bash script to insert value in a csv dataset into the appropriate tables.</li>
+			<td align="left"><li>Bash script to read csv data and insert each value to appropriate tables in a relational database</li>
 			</td>
 		</tr>
 <tr>
 			<td align="left"><a href="https://github.com/CheilaDaSilva/Salon-Appointment-Scheduler">Appointment Scheduler</a></td>
-			<td align="left"><li>Created Bash script to insert data into database based on user input.</li>
+			<td align="left"><li>Insert data into database based on user input.</li>
 			</td>
 		</tr>
 		<tr>
 			<td align="left"><a href="https://github.com/CheilaDaSilva/periodic_table_database">Periodic Table Database</a></td>
-			<td align="left"><li>Created Bash script to query data based on user input.</li>
+			<td align="left"><li>Querying data based on user input.</li>
 			</td>
 		</tr>
 		<tr>
 			<td align="left"><a href="https://github.com/CheilaDaSilva/number_guessing_game">Number Guessing Game</a></td>
-			<td align="left"><li>Created interactive bash script that runs like a game and saves user information and updates database with each game played.</li>
+			<td align="left"><li>Interactive bash script that runs in the terminal and saves user information and updates database with each game played.</li>
 			</td>
 		</tr>
 	</tbody>
