@@ -58,6 +58,7 @@ I am a Mathematics graduate, learning to code and building up my project portfol
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/SAS_logo_horiz.svg/2560px-SAS_logo_horiz.svg.png" title="SAS" **alt="SAS" width="50" height="50"/>
 </div>
 
+---
 
 <!-- project session - descriptions -->
 
@@ -107,7 +108,7 @@ I am a Mathematics graduate, learning to code and building up my project portfol
 
 </table>
 
-
+---
 <!-- project session - descriptions -->
 
 ### 💻📊 Projects Submitted as part of FreeCodeCamp courses :
