@@ -57,3 +57,35 @@ I am a Mathematics graduate, learning to code and building up my project portfol
   <img src="https://logos-world.net/wp-content/uploads/2022/02/Microsoft-Excel-Symbol.png" title="Microsoft Excel" **alt="Microsoft Excel" width="60" height="60"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/SAS_logo_horiz.svg/2560px-SAS_logo_horiz.svg.png" title="SAS" **alt="SAS" width="50" height="50"/>
 </div>
+
+
+<!-- project session - descriptions -->
+
+### 💻📊 Project List :
+
+Overview of my projects
+
+<table>
+	<tbody>
+		<tr>
+			<th align="center"> Project Repository </th>
+			<th align="center"> Description </th>
+			<th align="center"> Tools used </th>
+		</tr>
+    <tr>
+			<td align="left">RFM Analysis - Customer Segmentation</td>
+			<td align="left">
+        <li>Part of the KPMG Data Analysis Consulting.</li>
+        <li>Data cleaning and exploration of customer demographics.</li>
+        <li>Using RFM analysis to find high-value customers.</li> 
+      </td>
+			<td align="left">SQL, Power BI</td>
+		</tr>
+    <tr>
+			<td align="left">Amazon Web Scraping with Python</td>
+			<td align="left">Web scrapping with python to track a products daily price  </td>
+			<td align="left">Python, Jupiter Notebooks</td>
+		</tr>
+	</tbody>
+
+</table>
