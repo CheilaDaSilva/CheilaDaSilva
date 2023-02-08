@@ -72,19 +72,39 @@ Overview of my projects
 			<th align="center"> Description </th>
 			<th align="center"> Tools used </th>
 		</tr>
-    <tr>
-			<td align="left">RFM Analysis - Customer Segmentation</td>
+    		<tr>
 			<td align="left">
-        <li>Part of the KPMG Data Analysis Consulting.</li>
-        <li>Data cleaning and exploration of customer demographics.</li>
-        <li>Using RFM analysis to find high-value customers.</li> 
-      </td>
+				<a href ="https://github.com/CheilaDaSilva/Work_Experience_Projects/tree/main/KPMG%20Data%20Analytics%20Consulting%20Virtual%20Internship"> RFM Analysis - Customer Segmentation </a>
+			</td>
+			<td align="left">
+        			<li>Part of the KPMG Data Analysis Consulting.</li>
+       				 <li>Data cleaning and exploration of customer demographics.</li>
+       				 <li>Using RFM analysis to find high-value customers.</li> 
+     			 </td>
 			<td align="left">SQL, Power BI</td>
 		</tr>
-    <tr>
-			<td align="left">Amazon Web Scraping with Python</td>
-			<td align="left">Web scrapping with python to track a products daily price  </td>
+		<tr>
+			<td align="left">
+				<a href="https://github.com/CheilaDaSilva/Data-Analysis-Small-Projects/tree/main/covid%20data%20exploration%20with%20SQL">Covid Data Exploration</a>
+			</td>
+			<td align="left">
+        		<li>Data exploration and visualisation of death and infection rates of Covid-19 </li>
+			<li>Working on an extended version of this project: 
+				<a href="https://github.com/CheilaDaSilva/Covid-Data-Exploration-Extended-Project">Covid Data Exploration</a><li>
+      </td>
+			<td align="left">SQL, Tableau</td>
+		</tr>
+   		 <tr>
+			<td align="left">
+				<a href="https://github.com/CheilaDaSilva/Amazon-Web-Scraping-With-Python">Amazon Web Scraping with Python</a></td>
+	 	        <td align="left"><li>Web scrapping with python to track a products daily price </li></td>
 			<td align="left">Python, Jupiter Notebooks</td>
+		</tr>
+		<tr>
+			<td align="left">
+				<a href="https://github.com/CheilaDaSilva/Data-Analysis-Small-Projects/tree/main/Nashville%20Housing%20Data%20-%20data%20cleaning%20with%20SQL">Nashville Housing</a></td>
+			<td align="left"><li>Data cleaning with SQL.</li></td>
+			<td align="left">SQL, Power BI</td>
 		</tr>
 	</tbody>
 
