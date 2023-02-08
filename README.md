@@ -61,9 +61,7 @@ I am a Mathematics graduate, learning to code and building up my project portfol
 
 <!-- project session - descriptions -->
 
-### 💻📊 Project List :
-
-Overview of my projects
+### 💻📊 Projects List :
 
 <table>
 	<tbody>
@@ -89,8 +87,7 @@ Overview of my projects
 			</td>
 			<td align="left">
         		<li>Data exploration and visualisation of death and infection rates of Covid-19 </li>
-			<li>Working on an extended version of this project: 
-				<a href="https://github.com/CheilaDaSilva/Covid-Data-Exploration-Extended-Project">Covid Data Exploration</a><li>
+			<li>Working on an extended version of this project: <a href="https://github.com/CheilaDaSilva/Covid-Data-Exploration-Extended-Project">Covid Data Exploration</a></li>
       </td>
 			<td align="left">SQL, Tableau</td>
 		</tr>
@@ -104,7 +101,77 @@ Overview of my projects
 			<td align="left">
 				<a href="https://github.com/CheilaDaSilva/Data-Analysis-Small-Projects/tree/main/Nashville%20Housing%20Data%20-%20data%20cleaning%20with%20SQL">Nashville Housing</a></td>
 			<td align="left"><li>Data cleaning with SQL.</li></td>
-			<td align="left">SQL, Power BI</td>
+			<td align="left">SQL</td>
+		</tr>
+	</tbody>
+
+</table>
+
+
+<!-- project session - descriptions -->
+
+### 💻📊 Projects Submitted as part of FreeCodeCamp courses :
+
+	
+<table>
+	<tbody>
+		<tr>
+			<th align="center"> Course </th>
+			<th align="center"> Programme/Tools </th>
+			<th align="center"> Project </th>
+			<th align="center"> Description </th>
+		</tr>
+		<tr>
+			<td rowspan="5"align="left"><a href="https://www.freecodecamp.org/learn/relational-database/">Relational Database Developer</a></td>
+			<td rowspan="5"align="left">SQL, PostgreSQL, VSCode, Linux.Unix, Bash</td>
+			<td align="left">
+				<a href="https://github.com/CheilaDaSilva/celestial_bodies_database_project">Celestial Bodies Database</a>
+	</td>
+			<td align="left">
+				<li>Created a relational database using appropriate constraints and adding data gathered through research done about celestial bodies.</li>
+			</td>
+		</tr>
+<tr>
+			<td align="left"><a href="https://github.com/CheilaDaSilva/world-cup-database-project">World Cup Datase</a></td>
+			<td align="left"><li>Created a relational database and developed Bash script to insert value in a csv dataset into the appropriate tables.</li>
+			</td>
+			<td align="left">
+				<li> row 1 col 4 bullet points </li>
+				</td>
+		</tr>
+<tr>
+			<td align="left">row 1 col 1</td>
+			<td align="left">row 1 col 2</td>
+			<td align="left">row 1 col 3</td>
+			<td align="left">
+				<li> row 1 col 4 bullet points </li>
+				</td>
+		</tr>
+		</tr>
+<tr>
+			<td align="left">row 1 col 1</td>
+			<td align="left">row 1 col 2</td>
+			<td align="left">row 1 col 3</td>
+			<td align="left">
+				<li> row 1 col 4 bullet points </li>
+				</td>
+		</tr>
+		</tr>
+<tr>
+			<td align="left">row 1 col 1</td>
+			<td align="left">row 1 col 2</td>
+			<td align="left">row 1 col 3</td>
+			<td align="left">
+				<li> row 1 col 4 bullet points </li>
+				</td>
+		</tr></tr>
+<tr>
+			<td align="left">row 1 col 1</td>
+			<td align="left">row 1 col 2</td>
+			<td align="left">row 1 col 3</td>
+			<td align="left">
+				<li> row 1 col 4 bullet points </li>
+				</td>
 		</tr>
 	</tbody>
 
