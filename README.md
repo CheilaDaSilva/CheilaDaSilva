@@ -118,13 +118,12 @@ I am a Mathematics graduate, learning to code and building up my project portfol
 	<tbody>
 		<tr>
 			<th align="center"> Course </th>
-			<th align="center"> Tools </th>
 			<th align="center"> Project </th>
 			<th align="center"> Description </th>
 		</tr>
 		<tr>
-			<td rowspan="5"align="left"><a href="https://www.freecodecamp.org/learn/relational-database/">Relational Database Developer</a></td>
-			<td rowspan="5"align="left">SQL, PostgreSQL, VSCode, Linux.Unix, Bash</td>
+			<td rowspan="5"align="left"><a href="https://www.freecodecamp.org/learn/relational-database/">Relational Database Developer</a>
+				<li>Tools: SQL, PostgreSQL, VSCode, Linux/Unix, Bash </li></td>
 			<td align="left">
 				<a href="https://github.com/CheilaDaSilva/celestial_bodies_database_project">Celestial Bodies Database</a>
 	</td>
