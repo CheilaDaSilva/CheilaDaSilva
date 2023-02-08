@@ -117,7 +117,7 @@ I am a Mathematics graduate, learning to code and building up my project portfol
 	<tbody>
 		<tr>
 			<th align="center"> Course </th>
-			<th align="center"> Programme/Tools </th>
+			<th align="center"> Tools </th>
 			<th align="center"> Project </th>
 			<th align="center"> Description </th>
 		</tr>
