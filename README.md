@@ -38,10 +38,10 @@
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/SAS_logo_horiz.svg/2560px-SAS_logo_horiz.svg.png" title="SAS" **alt="SAS" width="50" height="50"/>
 </div>
 
----
 <div align="center">
   <img src="https://media.giphy.com/media/AjyLmNcI5K53XlR0jR/giphy.gif" width="600" height="300"/>
 </div>
+---
 <!-- project session - descriptions -->
 
 ### 💻📊 Projects List :
