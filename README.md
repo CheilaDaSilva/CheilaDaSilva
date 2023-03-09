@@ -1,19 +1,4 @@
-<!--
-**CheilaDaSilva/CheilaDaSilva** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
-<!-- header + links -->
+<!-- header + linkedin -->
 
 
 <div id="header" align="center">
@@ -29,9 +14,6 @@ Here are some ideas to get you started:
   Hi there
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
-<div align="center">
-  <img src="https://media.giphy.com/media/AjyLmNcI5K53XlR0jR/giphy.gif" width="600" height="300"/>
-</div>
 
 ---
 
@@ -39,10 +21,8 @@ Here are some ideas to get you started:
 
 ### :woman_technologist: About Me :
 
-I am a Mathematics graduate, learning to code and building up my project portfolio to kickstart my career in data.
-
+- ⚡ Mathematics graduate, learning to code and building up my project portfolio on GitHub to kickstart my career in data and further develop my technical and analytical skills.
 - 💻 Working on improving my SQL skills to query data for greater insights and expanding my knowledge of Tableau and Power BI.
-- ⚡ Seeking to kickstart my career working with data.
 - 📬 How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Cheila-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/cheilacarinadasilva/)
 
 ---
@@ -154,3 +134,9 @@ I am a Mathematics graduate, learning to code and building up my project portfol
 	</tbody>
 
 </table>
+
+
+
+<div align="center">
+  <img src="https://media.giphy.com/media/AjyLmNcI5K53XlR0jR/giphy.gif" width="600" height="300"/>
+</div>
